@@ -6,8 +6,7 @@
 
 - 🔭 I'm working on React chat application with AWS amplify, GraphQL, AWS appSync.<br>
 - 🌱 I’m currently learning Nest Js, Prisma ORM, Microservice, Dev Ops
-- 👯 I’m looking to collaborate on Node Js Microservice
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Node Js Microservice 
 - 💬 Ask me about about Web Development
 - 📫 How to reach me: mahbubsprint310@gmail.com 
 - 📄 [Resume](https://drive.google.com/file/d/1fUWPMFgLEq6C0EGmg2Y0wu_sJhes94pg/view?usp=sharing)
