@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahbubsprint) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahbubsprint)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahbubsprint) [![](https://visitcount.itsvg.in/api?id=mahbubsprint&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahbubsprint) 
 
 - 🔭 I'm working on React chat application with AWS amplify, GraphQL, AWS appSync.<br>
 - 🌱 I’m currently learning Nest Js, Prisma ORM, Microservice, Dev Ops
