@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahbubsprint)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahbubsprint) 
 
-- 🔭 I'm working on React chat application with AWS amplify, GraphQL, AWS appSync.<br>
+- 🔭 I'm digging deep into microservice.<br>
 - 🌱 I’m currently learning Go, Nest Js, Prisma ORM, Microservice, Dev Ops
 - 👯 I’m looking to collaborate on Node Js Microservice 
 - 💬 Ask me about about Web Development
